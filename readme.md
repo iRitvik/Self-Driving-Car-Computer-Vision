@@ -8,7 +8,7 @@ This project focuses on the implementation of object detection for autonomous ve
 - **Real-time Detection**: Processes video frames for live object detection, making it suitable for autonomous vehicles.
 
 ![Car Detection](relative%Screenshots/Car_Detection.jpg)
-![Pedestrian Detection](Screenshots\Pedestrian_Detection.jpg)
+![Pedestrian Detection](./Screenshots/Pedestrian_Detection.jpg)
 
 ### Technologies:
 - Python
